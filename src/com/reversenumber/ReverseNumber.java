@@ -1,4 +1,4 @@
-package reversenumber;
+package com.reversenumber;
 
 import java.util.Scanner;
 
